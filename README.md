@@ -1,4 +1,4 @@
-check batch ripple balance with request 
+💵check batch ripple balance with request 
 
 ## 🚀 Quick Start
 
