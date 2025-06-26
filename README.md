@@ -8,7 +8,7 @@
     ```
     pip install -r requirements.txt
 
-2.  **add adress to txt file**:
+2.  **add xrp adress to txt file**:
     ```
     adress.txt
 
